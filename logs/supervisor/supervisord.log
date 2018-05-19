@@ -1,0 +1,5 @@
+2018-05-19 20:51:58,254 CRIT Supervisor running as root (no user in config file)
+2018-05-19 20:51:58,256 WARN Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-05-19 20:51:58,312 INFO RPC interface 'supervisor' initialized
+2018-05-19 20:51:58,313 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-05-19 20:51:58,314 INFO supervisord started with pid 1
