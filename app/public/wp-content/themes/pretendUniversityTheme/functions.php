@@ -1,6 +1,13 @@
 <?php 
 
 add_action('wp_enqueue_scripts','university_files');
+add_action('after_setup_theme', 'university_features');
+
+
+function university_features (){
+    add_theme_support('title-tag');
+}
+
 
 function university_files(){
     wp_enqueue_script('javaScript', get_theme_file_uri('/js/scripts-bundled.js'), NULL, '1.0', true);
