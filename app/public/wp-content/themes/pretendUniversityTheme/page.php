@@ -1,3 +1,5 @@
+<?php get_header();?>
+
 <h2>This is a PAGE not a post!</h2>
 
 <?php
@@ -8,3 +10,5 @@ the_post(); ?>
 <?php the_content();?>
 <?php }
 ?>
+
+<?php get_footer();?>
