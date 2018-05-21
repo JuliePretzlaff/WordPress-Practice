@@ -71,3 +71,4 @@ Stack trace:
 [21-May-2018 18:11:26 UTC] PHP Parse error:  syntax error, unexpected '<' in /app/public/wp-content/themes/pretendUniversityTheme/page.php on line 23
 [21-May-2018 18:11:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/pretendUniversityTheme/page.php on line 53
 [21-May-2018 18:12:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/pretendUniversityTheme/page.php on line 27
+[21-May-2018 18:37:36 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/pretendUniversityTheme/page.php on line 44
