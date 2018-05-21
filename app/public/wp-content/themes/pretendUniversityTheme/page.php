@@ -34,7 +34,7 @@ if($theParent){
       <ul class="min-list">
         <?php 
         if($theParent){
-            #$findChildrenOf = $theParent;
+            $findChildrenOf = $theParent;
         }
         else{
             $findChildrenOf = get_the_ID();
