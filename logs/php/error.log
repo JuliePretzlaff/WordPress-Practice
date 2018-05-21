@@ -47,3 +47,27 @@ Stack trace:
 #11 /app/public/wp in /app/public/wp-content/themes/pretendUniversityTheme/functions.php on line 6
 [21-May-2018 17:53:16 UTC] PHP Parse error:  syntax error, unexpected '">About Us</a></li>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /app/public/wp-content/themes/pretendUniversityTheme/header.php on line 17
 [21-May-2018 17:53:34 UTC] PHP Parse error:  syntax error, unexpected '>' in /app/public/wp-content/themes/pretendUniversityTheme/header.php on line 18
+[21-May-2018 18:02:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function this_title() in /app/public/wp-content/themes/pretendUniversityTheme/page.php:22
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/pretendUniversityTheme/page.php on line 22
+[21-May-2018 18:02:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function this_title() in /app/public/wp-content/themes/pretendUniversityTheme/page.php:22
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/pretendUniversityTheme/page.php on line 22
+[21-May-2018 18:03:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function this_title() in /app/public/wp-content/themes/pretendUniversityTheme/page.php:22
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/pretendUniversityTheme/page.php on line 22
+[21-May-2018 18:11:26 UTC] PHP Parse error:  syntax error, unexpected '<' in /app/public/wp-content/themes/pretendUniversityTheme/page.php on line 23
+[21-May-2018 18:11:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/pretendUniversityTheme/page.php on line 53
+[21-May-2018 18:12:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/pretendUniversityTheme/page.php on line 27
