@@ -45,3 +45,5 @@ Stack trace:
 #9 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
 #10 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
 #11 /app/public/wp in /app/public/wp-content/themes/pretendUniversityTheme/functions.php on line 6
+[21-May-2018 17:53:16 UTC] PHP Parse error:  syntax error, unexpected '">About Us</a></li>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /app/public/wp-content/themes/pretendUniversityTheme/header.php on line 17
+[21-May-2018 17:53:34 UTC] PHP Parse error:  syntax error, unexpected '>' in /app/public/wp-content/themes/pretendUniversityTheme/header.php on line 18
