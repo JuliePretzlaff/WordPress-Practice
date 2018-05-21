@@ -35,8 +35,7 @@ if($theParent){
         <?php 
         if($theParent){
             $findChildrenOf = $theParent;
-        }
-        else{
+        }else{
             $findChildrenOf = get_the_ID();
         }
         wp_list_pages(array(
