@@ -74,3 +74,8 @@ Stack trace:
 [21-May-2018 18:37:36 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/pretendUniversityTheme/page.php on line 44
 [23-May-2018 16:43:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/update.php on line 357
 [23-May-2018 16:43:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/update.php on line 367
+[23-May-2018 17:21:35 UTC] PHP Parse error:  syntax error, unexpected 'viewport' (T_STRING) in /app/public/wp-content/themes/pretendUniversityTheme/header.php on line 5
+[23-May-2018 17:22:12 UTC] PHP Parse error:  syntax error, unexpected 'viewport' (T_STRING) in /app/public/wp-content/themes/pretendUniversityTheme/header.php on line 5
+[23-May-2018 17:22:38 UTC] PHP Parse error:  syntax error, unexpected 'viewport' (T_STRING) in /app/public/wp-content/themes/pretendUniversityTheme/header.php on line 5
+[23-May-2018 17:23:03 UTC] PHP Parse error:  syntax error, unexpected 'viewport' (T_STRING) in /app/public/wp-content/themes/pretendUniversityTheme/header.php on line 5
+[23-May-2018 17:24:05 UTC] PHP Parse error:  syntax error, unexpected 'viewport' (T_STRING) in /app/public/wp-content/themes/pretendUniversityTheme/header.php on line 5
