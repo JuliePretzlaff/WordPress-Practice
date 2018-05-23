@@ -46,7 +46,7 @@ if($theParent){
         wp_list_pages(array(
             'title_li' => NULL,
             'child_of' => $findChildrenOf,
-            'sorty_column' => 'menu_order'
+            'sort_column' => 'menu_order'
         ));
         ?>
       </ul>

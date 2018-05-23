@@ -72,3 +72,5 @@ Stack trace:
 [21-May-2018 18:11:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/pretendUniversityTheme/page.php on line 53
 [21-May-2018 18:12:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/pretendUniversityTheme/page.php on line 27
 [21-May-2018 18:37:36 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/pretendUniversityTheme/page.php on line 44
+[23-May-2018 16:43:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/update.php on line 357
+[23-May-2018 16:43:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/update.php on line 367
