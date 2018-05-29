@@ -79,3 +79,5 @@ Stack trace:
 [23-May-2018 17:22:38 UTC] PHP Parse error:  syntax error, unexpected 'viewport' (T_STRING) in /app/public/wp-content/themes/pretendUniversityTheme/header.php on line 5
 [23-May-2018 17:23:03 UTC] PHP Parse error:  syntax error, unexpected 'viewport' (T_STRING) in /app/public/wp-content/themes/pretendUniversityTheme/header.php on line 5
 [23-May-2018 17:24:05 UTC] PHP Parse error:  syntax error, unexpected 'viewport' (T_STRING) in /app/public/wp-content/themes/pretendUniversityTheme/header.php on line 5
+[29-May-2018 17:22:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/pretendUniversityTheme/functions.php on line 10
+[29-May-2018 17:22:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/pretendUniversityTheme/functions.php on line 10
