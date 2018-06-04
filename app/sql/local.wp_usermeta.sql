@@ -18,5 +18,7 @@ INSERT INTO `wp_usermeta` VALUES
 (14,1,"dismissed_wp_pointers","wp496_privacy"),
 (15,1,"show_welcome_panel","1"),
 (16,1,"session_tokens","a:1:{s:64:\"8ba8195d738f56ce24e763c68c520f6a6d9b5f9ec1d62bc65afc49d187f589ff\";a:4:{s:10:\"expiration\";i:1527974372;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:114:\"Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36\";s:5:\"login\";i:1526764772;}}"),
-(17,1,"wp_dashboard_quick_press_last_post_id","4"),
-(18,1,"community-events-location","a:1:{s:2:\"ip\";s:12:\"192.168.95.0\";}");
+(17,1,"wp_dashboard_quick_press_last_post_id","26"),
+(18,1,"community-events-location","a:1:{s:2:\"ip\";s:12:\"192.168.95.0\";}"),
+(19,1,"managenav-menuscolumnshidden","a:5:{i:0;s:11:\"link-target\";i:1;s:11:\"css-classes\";i:2;s:3:\"xfn\";i:3;s:11:\"description\";i:4;s:15:\"title-attribute\";}"),
+(20,1,"metaboxhidden_nav-menus","a:1:{i:0;s:12:\"add-post_tag\";}");
