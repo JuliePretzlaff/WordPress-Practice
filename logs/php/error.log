@@ -114,3 +114,5 @@ Stack trace:
 #2 /app/public/index.php(17): require('/app/public/wp-...')
 #3 {main}
   thrown in /app/public/wp-content/themes/pretendUniversityTheme/front-page.php on line 54
+[05-Jun-2018 17:28:58 UTC] PHP Fatal error:  Can't use function return value in write context in /app/public/wp-content/themes/pretendUniversityTheme/header.php on line 22
+[05-Jun-2018 17:29:54 UTC] PHP Fatal error:  Can't use function return value in write context in /app/public/wp-content/themes/pretendUniversityTheme/header.php on line 22
